@@ -11,8 +11,8 @@ setup(
     packages=['pyres_scheduler',],
     long_description=open('README.txt').read(),
     requires=[
-        'APScheduler==2.0.2',
-        'pyres==1.1',
+        'APScheduler (==2.0.2)',
+        'pyres (==1.1)',
         ],
     classifiers = [
         'Development Status :: 3 - Alpha',
