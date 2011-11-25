@@ -1,13 +1,13 @@
 from distutils.core import setup
 
 setup(
-    name='pyres_scheduler',
+    name='pyres-scheduler',
     version='0.1',
     author='Christy O\'Reilly',
     author_email='christy@oreills.co.uk',
     maintainer='Christy O\'Reilly',
     license='MIT',
-    url='http://github.com/c-oreills/pyres_scheduler',
+    url='http://github.com/c-oreills/pyres-scheduler',
     packages=['pyres_scheduler',],
     long_description=open('README.txt').read(),
     requires=[
